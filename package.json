@@ -1,0 +1,8 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "devDependencies": {
+    "browser-sync": "^2.7.6",
+    "gulp": "^3.8.11"
+  }
+}
