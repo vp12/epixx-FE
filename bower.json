@@ -1,9 +1,9 @@
 {
   "name": "task",
   "version": "0.1.0",
-
   "dependencies": {
     "normalize.css": "~3.0.3",
-    "jquery": "1.8"
+    "jquery": "1.8",
+    "tooltipster": "~3.3.0"
   }
 }
